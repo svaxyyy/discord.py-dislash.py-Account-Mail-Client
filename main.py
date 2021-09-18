@@ -58,7 +58,7 @@ def colorInvisible():
 
 
 
-nlist = ["response.py", "accountManager.py", "Exceptions.py"]
+nlist = ["response.py", "accountManager.py", "exceptions.py"]
 
 
 for filename in os.listdir('./database/cogs'):
